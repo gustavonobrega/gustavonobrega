@@ -2,5 +2,5 @@
 
 Enthusiast of the best web development technologies.
 
-
-- 📫 How to reach me: gustavo.nobrega@hotmail.com
+- 💻 Software Enginner from <b>São Paulo, Brasil.</b>
+- 📫  How to reach me: gustavo.nobrega@hotmail.com
