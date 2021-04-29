@@ -1,4 +1,4 @@
-# 👋 Hello, I,am Gustavo!
+# 👋 Hello, I'am Gustavo!
 
 **Seeking knowledge all the time**
 
