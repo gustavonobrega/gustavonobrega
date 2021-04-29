@@ -1,6 +1,6 @@
 # 👋 Hello, I'am Gustavo!
 
-**Seeking knowledge all the time**
+Enthusiast of the best web development technologies.
 
 
 - 📫 How to reach me: gustavo.nobrega@hotmail.com
